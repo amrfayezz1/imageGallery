@@ -33,7 +33,7 @@
     transition: transform 500ms ease-in-out;
 }
 .main img:hover{
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 @media (max-width:378px){
     body{
